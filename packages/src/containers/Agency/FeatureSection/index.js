@@ -30,11 +30,8 @@ const FeatureSection = ({
             content="Featured Services We Provide"
             {...sectionTitle}
           />
-          <Text
-              content="We craft digital, graphic and dimensional thinking, to create category leading brand experiences that have meaning and add a value for our clients.                  "
-              {...description}
-            />
         </Box>
+        
 
         <Box className="row" {...row}>
           {data.features.map((feature, index) => (

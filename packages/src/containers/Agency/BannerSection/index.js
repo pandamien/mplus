@@ -22,12 +22,12 @@ const BannerSection = ({
   const ButtonGroup = () => (
     <Fragment>
       <Button title="Get Started" {...btnStyle} />
-      <Button
+      {/* <Button
         title="WATCH WORKS"
         variant="textButton"
         icon={<i className="flaticon-next" />}
         {...outlineBtnStyle}
-      />
+      /> */}
     </Fragment>
   );
   return (

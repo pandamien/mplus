@@ -21,7 +21,7 @@ const BannerSection = ({
 }) => {
   const ButtonGroup = () => (
     <Fragment>
-      <Button title="LEARN MORE" {...btnStyle} />
+      <Button title="Get Started" {...btnStyle} />
       <Button
         title="WATCH WORKS"
         variant="textButton"
@@ -43,13 +43,13 @@ const BannerSection = ({
             <FeatureBlock
               title={
                 <Heading
-                  content="With Knowledge, Passion, Heart & Soul Agencies"
+                  content="With Knowledge, Passion, Heart & Soul"
                   {...title}
                 />
               }
               description={
                 <Text
-                  content="Agencies around the world are moving to the digital agencies. So, It is high time to introduce your agency digitaly ."
+                  content="We provides outstanding services to startups around the world to help them launch their product."
                   {...description}
                 />
               }

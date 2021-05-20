@@ -32,8 +32,8 @@ const Footer = ({
               title="Agency"
               logoStyle={logoStyle}
             />
-            <Text content="hello@redq.io" {...textStyle} />
-            <Text content="+479-443-9334" {...textStyle} />
+            <Text content="contact@multusplus.com" {...textStyle} />
+            <Text content="+86-15800834294" {...textStyle} />
           </Box>
           {/* End of footer logo column */}
           <Box {...colTwo}>

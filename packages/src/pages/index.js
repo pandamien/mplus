@@ -26,7 +26,7 @@ const Agency = () => {
       <Fragment>
         {/* Start agency head section */}
         <Head>
-          <title>Agency | A react next landing page</title>
+          <title>Multus +</title>
           <meta name="Description" content="React next landing page" />
           <meta name="theme-color" content="#10ac84" />
 

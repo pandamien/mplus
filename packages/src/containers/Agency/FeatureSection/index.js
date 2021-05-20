@@ -14,6 +14,7 @@ const FeatureSection = ({
   sectionHeader,
   sectionTitle,
   sectionSubTitle,
+  description,
   featureTitle,
   featureDescription,
   iconStyle,
@@ -26,10 +27,15 @@ const FeatureSection = ({
         <Box {...sectionHeader}>
           <Text content="OUR SERVICES" {...sectionSubTitle} />
           <Heading
-            content="Featured Service that We Provide"
+            content="Featured Services We Provide"
             {...sectionTitle}
           />
+          <Text
+              content="We craft digital, graphic and dimensional thinking, to create category leading brand experiences that have meaning and add a value for our clients.                  "
+              {...description}
+            />
         </Box>
+
         <Box className="row" {...row}>
           {data.features.map((feature, index) => (
             <Box className="col" {...col} key={`feature-${index}`}>

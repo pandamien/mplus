@@ -22,7 +22,8 @@
     "next-export": "yarn workspace @superprops/next run export",
     "gatsby-dev": "yarn workspace @superprops/gatsby run dev",
     "gatsby-build": "yarn workspace @superprops/gatsby run build",
-    "gatsby-serve": "yarn workspace @superprops/gatsby run start"
+    "gatsby-serve": "yarn workspace @superprops/gatsby run start",
+    "deploy-netlify": "yarn workspace @superprops/next run export"
   },
   "husky": {
     "hooks": {

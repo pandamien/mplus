@@ -87,7 +87,7 @@ const data = {
       icon: 'flaticon-ruler',
       title: 'Wireframing Task',
       description:
-        'We respect our customer opinions and deals with them with perfect wireframing ',
+        'We respect our customers opinions and deal with them with perfect wireframing ',
     },
     {
       id: 4,
@@ -167,7 +167,7 @@ const data = {
   teamMember: [
     {
       id: 1,
-      name: 'Jessica Fanddy',
+      name: 'Victoria Grishina',
       thumbnail_url: Member1,
       designation: 'Co Founder',
       social_links: [
@@ -195,9 +195,9 @@ const data = {
     },
     {
       id: 2,
-      name: 'Devid Justingul',
+      name: 'Doto Damien Pandam',
       thumbnail_url: Member2,
-      designation: 'Senior Ui/UX Designer',
+      designation: 'Co Founder',
       social_links: [
         {
           id: 1,
@@ -220,35 +220,7 @@ const data = {
           url: '#',
         },
       ],
-    },
-    {
-      id: 3,
-      name: 'Handdy Albuzz',
-      thumbnail_url: Member3,
-      designation: 'Article Writer',
-      social_links: [
-        {
-          id: 1,
-          icon: 'flaticon-facebook-logo',
-          url: '#',
-        },
-        {
-          id: 1,
-          icon: 'flaticon-twitter-logo-silhouette',
-          url: '#',
-        },
-        {
-          id: 1,
-          icon: 'flaticon-instagram',
-          url: '#',
-        },
-        {
-          id: 1,
-          icon: 'flaticon-dribble-logo',
-          url: '#',
-        },
-      ],
-    },
+    }
   ],
   testimonial: [
     {

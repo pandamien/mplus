@@ -25,7 +25,7 @@ const TeamSection = ({
         <Box {...sectionHeader}>
           <Text content="TEAM MEMBER" {...sectionSubTitle} />
           <Heading
-            content="Meet with team member behind scense"
+            content="Meet with team members behind scense"
             {...sectionTitle}
           />
         </Box>

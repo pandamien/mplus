@@ -71,74 +71,74 @@ const data = {
     {
       id: 1,
       icon: 'flaticon-flask',
-      title: 'Search Optimization',
+      title: 'Digital Marketing',
       description:
-        'By using Search Engine Optimization, You will get more Clients',
+        'We will help you with the social media marketing on Chinese platforms and abroad.',
     },
     {
       id: 2,
       icon: 'flaticon-pencil-case',
-      title: 'Ui/UX Design',
+      title: 'Brand Consultancy',
       description:
-        'We provide the best UI/UX Design by following the latest trends of the market .',
+        'We brand your company in the Chinese market and broad.',
     },
     {
       id: 3,
       icon: 'flaticon-ruler',
-      title: 'Wireframing Task',
+      title: 'Event Planning',
       description:
-        'We respect our customers opinions and deal with them with perfect wireframing ',
+        'we plan and implement all the possible events For your company.',
     },
     {
       id: 4,
       icon: 'flaticon-startup',
-      title: 'Business Solutions',
+      title: 'Marketing Management',
       description:
-        'We are commited to provide proper business solutions with reasonable pricing',
+        'We are commited to provide proper marketing solutions with reasonable pricing',
     },
     {
       id: 5,
       icon: 'flaticon-briefing',
-      title: 'Business Analysis',
+      title: 'IT Consulting',
       description:
-        'A day to day report about your ongoing business for proper understanding',
+        'From UI Design to fully funtional website and analytics, we will guide you launch your product.',
     },
     {
       id: 6,
       icon: 'flaticon-creative',
-      title: 'Content Management',
+      title: 'Content Promotion',
       description:
-        'Proper Content Management is important to find out the real clients for your agencies',
+        'Proper Content Management is important to find out the right clients for your product.',
     },
   ],
   qualityFeature: [
     {
       id: 1,
       icon: 'flaticon-flask',
-      title: 'Search Optimization',
+      title: 'Digital Marketing',
       description:
-        'By using Search Engine Optimization, You will get more Clients.',
+        'We will help you with the social media marketing on Chinese platforms and abroad.',
     },
     {
       id: 2,
-      icon: 'flaticon-pencil-case',
-      title: 'Wireframing Task',
+      icon: 'flaticon-ruler',
+      title: 'Event Planning',
       description:
-        'We respect our customer opinions and deals with them with perfect wireframing.',
+        'we plan and implement all the possible. Events. For your company. Okay',
     },
     {
       id: 3,
       icon: 'flaticon-ruler',
-      title: 'Ui/Ux Design',
+      title: 'Marketing Management',
       description:
-        'We provide the best UI/UX Design by following the latest trends of the market .',
+        'We are commited to provide proper marketing solutions with reasonable pricing',
     },
     {
       id: 4,
       icon: 'flaticon-briefing',
-      title: 'Content Writting',
+      title: 'IT Consulting',
       description:
-        'Proper Content Management is important to find out the real clients for your agencies .',
+        'From UI Design to fully funtional website and analytics, we will guide you launch your product.',
     },
   ],
   blog: [
